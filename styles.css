@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+/* *{
+	margin: 0px;
+	padding: 0px;
+} */
+
+:root{
+	background-color:  #f5f5f5;
+}
+.innerContainer{
+	display: flex;
+	text-align: center;
+}
+.heading1{
+	background-color: #011e29;
+	color: white;
+	text-align: center;
+	padding: 15px;
+}
+img{
+	height: 80px;
+	width: 100px;
+	padding: 5px;
+}
+.image{
+	display: flex;
+	flex-direction: column;
+}
