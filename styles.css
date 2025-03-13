@@ -11,11 +11,11 @@
 	display: flex;
 	text-align: center;
 }
-.heading1{
+header{
 	background-color: #011e29;
 	color: white;
 	text-align: center;
-	padding: 15px;
+	padding: 10px;
 }
 img{
 	height: 80px;
